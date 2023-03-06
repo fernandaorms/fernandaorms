@@ -7,7 +7,7 @@ cursing Information Systems (Bachelor Degree).
 I'm looking for going deeper at **front-end development** with modern technologies.
 
 <div>
-	<a href="https://github.com/fernandaorms">
+	<a href="https://github.com/fernandaorms?tab=repositories">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandaorms&show_icons=true&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaorms&layout=compact&langs_count=7"/>
 </div>
