@@ -2,7 +2,7 @@
 ### Hey, I'm Fernanda Oliveira! 👋
 
 I'm a **web developer** with two years of professional experience. Currently
-cursing Systems Information (Bachelor Degree).
+cursing Information Systems (Bachelor Degree).
 
 I'm looking for going deeper at **front-end development** with modern technologies.
 
