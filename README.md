@@ -1,44 +1,44 @@
+
 ### Hey, I'm Fernanda Oliveira! 👋
 
-```
-is Cold ? get Coffee : get Orange Juice
-```
-<br>
+I'm a **web developer** with two years of professional experience. Currently
+cursing Systems Information (Bachelor Degree).
 
-- 👩🏽‍💻 Web Developer
-- 📚 Cursing Systems Information
-- 🔭 I’m currently going deeper into JavaScript
-- 💬 Ask me about **math**
-- 🌈 Pronouns: she/her
-<br>
-  
-### 🛠️ Languages & Tools
-#
+I'm looking for going deeper at **front-end development** with modern technologies.
+
 <div>
-  <a href="https://github.com/fernandaorms?tab=repositories" target="_blank">
-    <img alt="icon-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="icon-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="icon-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img alt="icon-c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  </a>
+	<a href="https://github.com/fernandaorms">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandaorms&show_icons=true&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaorms&layout=compact&langs_count=7"/>
 </div>
-<br>
 
-### 💡 Learning
 #
-<div>
-  <a href="https://github.com/fernandaorms?tab=repositories" target="_blank">
-    <img alt="icon-ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="icon-react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a>
+
+#### 🛠️ Languages & Tools
+
+<div style="display: inline_block">
+	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-<br>
-  
 
-### 📞 How to reach me
 #
-<a href = "mailto:fernandaoliveira.rms@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernandaorms/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+
+#### 💡 Learning
+<div style="display: inline_block">
+	 <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+	<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+ #
+
+#### 📞 How to reach me
+
+<div style="display: inline_block">
+	<a href = "mailto:fernandaoliveira.rms@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/fernandaorms/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
 
 
 <!--
